@@ -86,3 +86,40 @@ Rust 编译缓慢的根由在于语言的设计。
 
 因此，Rust 编译时间很慢。这有点让人恼火，因为 Rust 在其他方面的表现都非常好，唯独 Rust 编译时间却表现如此糟糕。
 
+---
+
+Rust 学习资料、书籍分享 
+原创roseduan roseduan写字的地方 
+Rust 是近些年来非常火热的语言之一了，但也是公认的上手难，为了帮助一些想要学习的同学，这里分享一些我在学习 Rust 的过程当中，接触到的一些不错的资料。
+* 官方的 rust book https://doc.rust-lang.org/book/title-page.html
+* 官方 rust 死灵书 https://doc.rust-lang.org/nomicon/intro.html
+* 通过例子学 Rust https://rustwiki.org/zh-CN/rust-by-example/index.html
+* 官方 rustlings 小练习 https://rustlings.cool/
+* Rust 语言圣经 https://course.rs/basic/intro.html
+* Google 出的 Rust 教程 https://google.github.io/comprehensive-rust/welcome.html
+* Rust 程序设计语言 https://kaisery.github.io/trpl-zh-cn/title-page.html
+* Rust 原子操作和锁 https://marabos.nl/atomics/
+* Rust 原子和锁—中文翻译 https://atomics.rs/about-book.html
+* Awesome-rust rust 相关资料、第三方库列表 https://github.com/rust-unofficial/awesome-rust
+* Learn Rust Easy 一本中文入门书 https://rustycab.github.io/LearnRustEasy/
+* 书籍、博客、视频
+    * 《Rust 编程之道》
+    * 《Rust 权威指南》
+    * 《Rust 程序设计·第二版》
+    * 《深入理解 Rust 并发编程》
+    * 《Rust 实战》
+    * 《The Rust Programming Language》
+    * 《Rust For Rustaceans》
+    * 《Programming Rust—Fast, Safe Systems Development》
+    * 《Command-Line Rust》
+    * 《Rust Crash Course》
+    * 《Systems Programming Rust》
+    * 《Rust Atomics and Locks》
+    * The Week in Rust https://this-week-in-rust.org/
+    * Rust 语言中文社区 https://rustcc.cn/
+
+以上书籍可以在公众号领取，后台回复关键字「rust」即可。
+ps. 最近在 B 站发布了我的第一个露脸的视频，欢迎各位捧个场点个赞，今年会继续在视频领域持续创作（公众号当然也不会落下）。
+
+我的 B 站主页：
+https://space.bilibili.com/26194591

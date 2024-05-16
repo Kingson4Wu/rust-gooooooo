@@ -1,4 +1,4 @@
-use rand::Rng;
+/*use rand::Rng;
 use std::cmp::Ordering;
 use std::io;
 
@@ -32,5 +32,9 @@ fn main() {
             }
         }
     }
-}
-    
+}*/
+
+
+fn main() {
+    println!("Hello, world!");
+}    
