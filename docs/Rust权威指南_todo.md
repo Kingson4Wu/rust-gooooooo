@@ -111,3 +111,18 @@ https://xiaochai.github.io/2021/11/20/the-rust-programming-language/
 https://github.com/sunface/rust-course
 https://rusty.course.rs/
 
+---
+
+
+3.熟悉 Async 特性，熟练使用 Tokio/Async_std 等框架进行异步编程；
+
+4.熟悉 Axum, Sea-ORM 等框架，独立完成 HTTP API 开发；
+
+5.熟练使用 Rust 生态工具，独立定位和解决问题；
+
+
+https://tokio.rs/
+https://docs.rs/axum/latest/axum/
+https://www.sea-ql.org/SeaORM/
+
+----
